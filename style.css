@@ -1,0 +1,133 @@
+.d1{
+    width: 100vw;
+    height: 7.1vh;
+    background-image: radial-gradient(54.97% 272.54% at 27.36% -134.72%,rgba(108,148,255,.92) 0,rgba(0,0,0,.92) 100%);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 14px;
+    font-family: "Gotham SSm";
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+}
+
+.d2{
+    width: 100vw;
+    height: 94.5vh;
+    background-color: transparent;
+    position: fixed;
+}
+
+.b{
+    margin: 0px;
+    overflow-x: hidden;
+}
+.a1{
+    color: rgb(255, 255, 255);
+    margin: 5px;
+    text-underline-offset: 3px;
+}
+.il{
+    width: 140px;
+    height: 22px;
+    margin-top: 18px;
+    margin-left: 39px;
+}
+
+.ol1{
+    color: white;
+    margin-left: 398px;
+    font-family: "Gotham SSm";
+    font-size: 14px;
+    font-weight: 500;
+    list-style: none;
+    margin-top: -21px;
+}
+
+.li1{
+    display: inline;
+    margin-left: 18px;
+}
+
+.ol2{
+    color: white;
+    margin-left: 1284px;
+    font-family: "Gotham SSm";
+    font-size: 14px;
+    font-weight: 500;
+    list-style: none;
+    margin-top: -30px;
+}
+
+.li2{
+    display: inline;
+    margin-left: 11px;
+}
+
+.d3{
+    color: white;
+    justify-content: center;
+    display: flex;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: "Gotham SSm";
+    margin-top: 46px;
+}
+
+.d4{
+    color: white;
+    justify-content: center;
+    display: flex;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Gotham SSm";
+    margin-top: 5px;
+}
+
+.v1{
+    width: 100vw;
+    height: 94.5vh;
+    position: fixed;
+    object-fit: cover;
+}
+
+.btn{
+    font-size: 14px;
+    font-family: "Gotham SSm";
+    font-weight: 600;
+    background-color: transparent;
+    color: white;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 5px;
+    border-color: white;
+    width: 266px;
+    height: 40px;
+    margin-top: 426px;
+    margin-left: 659px;
+    transition-duration: 1.5s;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+}
+
+.a2{
+    color: rgb(255, 255, 255);
+    margin: 5px;
+    text-decoration: none;
+}
+
+.a3{
+    color: rgb(255, 255, 255);
+    margin: 5px;
+    text-decoration: none;
+}
+
+.d{
+    width: 100vw;
+    height: 194.5vh;
+    background-color: rgb(255, 6, 6);
+    margin-top: 0px;
+}
